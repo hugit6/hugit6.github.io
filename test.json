@@ -7,36 +7,36 @@
   {
     "count": "5",
     "date": "2019-02-25",
-    "level": "5"
+    "level": "1"
   },
   {
     "count": "10",
     "date": "2019-02-26",
-    "level": "10"
+    "level": "1"
   },
   {
     "count": "15",
     "date": "2021-05-06",
-    "level": "15"
+    "level": "1"
   },
   {
     "count": "20",
     "date": "2021-05-10",
-    "level": "20"
+    "level": "2"
   },
   {
     "count": "25",
     "date": "2021-05-11",
-    "level": "25"
+    "level": "2"
   },
   {
     "count": "30",
     "date": "2021-05-13",
-    "level": "30"
+    "level": "3"
   },
   {
     "count": "35",
     "date": "2023-05-14",
-    "level": "35"
+    "level": "3"
   }
 ]
